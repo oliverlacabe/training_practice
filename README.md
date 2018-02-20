@@ -1,5 +1,4 @@
-# training_practice
-sample CRUD for new trainees
+# Docs
 ---
 ## Requirements
 * Latest CI Framework
@@ -7,3 +6,4 @@ sample CRUD for new trainees
 * Database Sever
 ---
 you can use XAMPP, WAMPP, LAMP, etc..
+---
